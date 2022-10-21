@@ -1,3 +1,7 @@
+[![Build Status](https://dev.azure.com/brunotr123/ContosoAir/_apis/build/status/btavr.ContosoAir?branchName=master)](https://dev.azure.com/brunotr123/ContosoAir/_build/latest?definitionId=6&branchName=master)
+
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
